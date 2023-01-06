@@ -4,8 +4,11 @@
 
 
 
-A simple single page library for generating secrets for Google Authenticator and Authy. With OTP code verification.  
-A link to a QR Code is provided for the given secret.
+An easy to integrate single class PHP library to interface with Google Authenticator or
+Authy. It provides a full set of functions for generating and validating 2FA codes. The
+library allows developers to provide better security for their end users by using either
+Google Authenticator or Authy as an authentication service.  
+A function to generate a QR Code is provided for the given secret.
 
 ## Authors
 
